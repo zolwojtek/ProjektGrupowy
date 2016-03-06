@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5a72e520_e073324b",
+        "filename": "EwaTest.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1007621
+      },
+      "writtenOn": "2016-03-06T11:33:52Z",
+      "side": 1,
+      "message": "komentarz w pliku",
+      "revId": "f400bc1d5657a89232fea0c6628c65d38223fbc3",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
