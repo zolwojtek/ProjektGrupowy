@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "baa041b7_f79bf4c7",
+        "filename": "web.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 1007657
+      },
+      "writtenOn": "2016-04-14T08:45:23Z",
+      "side": 1,
+      "message": "Koło zdane, że takie brzydkie asdddsd piszecie w kodzie ;o? I ciągle mi spam na maila przychodzi z każdym commentem każdej osoby xD... Będzie bolało :D",
+      "range": {
+        "startLine": 6,
+        "startChar": 1,
+        "endLine": 6,
+        "endChar": 8
+      },
+      "revId": "bf9173ad958cabd7f2a8018b0463abe02a84443b",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
