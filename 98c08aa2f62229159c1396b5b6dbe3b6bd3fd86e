@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "baa041b7_57cf4056",
+        "filename": "EwaTest.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1007657
+      },
+      "writtenOn": "2016-04-14T10:00:32Z",
+      "side": 1,
+      "message": "Dałbym to dwie linie wyżej. Po co takie odstępy na początku pliku?",
+      "range": {
+        "startLine": 3,
+        "startChar": 0,
+        "endLine": 3,
+        "endChar": 4
+      },
+      "revId": "98c08aa2f62229159c1396b5b6dbe3b6bd3fd86e",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
